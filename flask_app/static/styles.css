@@ -1,0 +1,14 @@
+* {
+    border: 0px;
+    outline: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#btn:hover {
+    background-color: #485056;
+}
+
+.flashes {
+    color: red;
+}
